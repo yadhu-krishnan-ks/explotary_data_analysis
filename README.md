@@ -1,5 +1,5 @@
 #  explotary_data_analysis
-# Eda1 (BANK_FRRAUD_DATA):
+# Eda1 (BANK_FRAUD_DATA):
     This dataset provides a structured and comphrensive view of banking transactions, enabling the development of fraud detection models and financial risk analysis. With real-world transaction attributes such as device type, merchant category, and transaction amount, this data allows for:
     * Pattern Recognition: Identifying anomalies in customer transactions that indicate fraudulent activity.
     * Feature Engineering: Extracting meaningful insights to improve fraud detection accuracy.
